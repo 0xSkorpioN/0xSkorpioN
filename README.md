@@ -1,4 +1,5 @@
-## Hi there, I'm Abdallah - aka [SkorpioN](https://0xskorpion.github.io/) 👋 
+## Hi there, I'm Abdallah - aka [SkorpioN](https://0xskorpion.github.io/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 
 ### I'm an IT Student, Jr PenTester, CTF Player, and Cyber Security Researcher/Enthusiast !!
@@ -14,6 +15,12 @@
 [<img align="left" alt="0xSkorpion.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://0xskorpion.github.io/)
 [<img align="left" alt="0xSkorpion | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/AbdallahAdham13)
 [<img align="left" alt="0xSkorpion | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abdallah-adham/)
+
+<br />
+
+### Github Stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gradient)
 
 <br />
 
