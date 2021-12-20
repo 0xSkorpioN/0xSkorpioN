@@ -12,9 +12,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="0xSkorpion.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://0xskorpion.github.io/)
-[<img align="left" alt="0xSkorpion | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/AbdallahAdham13)
-[<img align="left" alt="0xSkorpion | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abdallah-adham/)
+[<img align="center" alt="0xSkorpion.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://0xskorpion.github.io/)
+[<img align="center" alt="0xSkorpion | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/AbdallahAdham13)
+[<img align="center" alt="0xSkorpion | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abdallah-adham/)
 
 <br />
 
@@ -31,9 +31,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xSkorpioN&repo=AES&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
 <a href="https://github.com/0xSkorpioN/LFSR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xSkorpioN&repo=LFSR&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/0xSkorpioN/DirStealer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xSkorpioN&repo=DirStealer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/0xSkorpioN/KeyLogger">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xSkorpioN&repo=KeyLogger&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <br />
