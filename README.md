@@ -21,19 +21,19 @@
 ### &#x1f4c8; Github Stats:
 
 <a href="https://github.com/0xSkorpioN/0xSkorpioN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSkorpioN&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSkorpioN&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
 <a href="https://github.com/0xSkorpioN/0xSkorpioN">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xSkorpioN&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abdallah's GitHub Stats" />
 </a>
 
 <a href="https://github.com/0xSkorpioN/AES">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xSkorpioN&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xSkorpioN&repo=AES&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
 <a href="https://github.com/0xSkorpioN/LFSR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xSkorpioN&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xSkorpioN&repo=LFSR&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <br />
