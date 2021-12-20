@@ -6,7 +6,7 @@
 
 - 🔭 I just launched my first Writeup: [Mission Challenges Walkthrough - RCTS CERT CTF 2021](https://0xskorpion.github.io/writeups/mission_rcts/)!
 - 🌱 I’m currently learning everything about Cyber Security
-- 👯 I’m looking to begin with doing Bug Hunting
+- :star2: I’m looking to begin with doing Bug Hunting
 - 🥅 2022 Goals: Get eJPT and OSCP Certificates
 - ⚡ Fun fact: I love to video edit and play games
 
@@ -20,7 +20,7 @@
 
 ### Github Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xSkorpioN&show_icons=true&theme=Gradient)
+![Abdallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xSkorpioN&show_icons=true&theme=aura)
 
 <br />
 
