@@ -20,7 +20,7 @@
 
 ### Github Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xSkorpioN&show_icons=true&theme=Gradient)
 
 <br />
 
